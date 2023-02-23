@@ -1,0 +1,14 @@
+Final Project
+
+Home Page: favorites
+Login/Signup
+Checkout, 
+Categories
+Profile Page
+
+API: https://rapidapi.com/1yesari1/api/epic-free-games
+     https://steamapis.com/
+
+Jonathan: Home
+John: Stats Page
+Jean: 
